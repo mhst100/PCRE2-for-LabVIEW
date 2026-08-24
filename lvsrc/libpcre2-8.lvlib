@@ -141,6 +141,7 @@
 			<Item Name="Pcre2SubstringFromSubjectByOffsets (ba).vi" Type="VI" URL="../Advanced/Pcre2SubstringFromSubjectByOffsets (ba).vi"/>
 			<Item Name="Pcre2SubstringFromSubjectByOffsets (bsa).vi" Type="VI" URL="../Advanced/Pcre2SubstringFromSubjectByOffsets (bsa).vi"/>
 			<Item Name="Pcre2SubstringFromSubjectByOffsets (s).vi" Type="VI" URL="../Advanced/Pcre2SubstringFromSubjectByOffsets (s).vi"/>
+			<Item Name="Pcre2SubstringInfoFromName.vi" Type="VI" URL="../Advanced/Pcre2SubstringInfoFromName.vi"/>
 			<Item Name="Pcre2SubstringLengthByName8.vi" Type="VI" URL="../Advanced/Pcre2SubstringLengthByName8.vi"/>
 			<Item Name="Pcre2SubstringLengthByNumber8.vi" Type="VI" URL="../Advanced/Pcre2SubstringLengthByNumber8.vi"/>
 			<Item Name="Pcre2SubstringNumberFromName8.vi" Type="VI" URL="../Advanced/Pcre2SubstringNumberFromName8.vi"/>
